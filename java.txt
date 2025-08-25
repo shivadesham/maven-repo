@@ -1,6 +1,6 @@
 const baseValue = prompt('Enter the base of a triangle: ');
 const heightValue = prompt('Enter the height of a triangle: ');
-added webhook
+added webhookfy
 // calculate the area
 cons  hcghghvgt areaValue = (baseValue * heightValue) / 2;
 dfvfdbgbgg
@@ -9,3 +9,4 @@ console.log(
 );
 cfchgjj
 gfccghg
+gfchgjhbjbk
