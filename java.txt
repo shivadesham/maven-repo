@@ -1,6 +1,6 @@
 const baseValue = prompt('Enter the base of a triangle: ');
 const heightValue = prompt('Enter the height of a triangle: ');
-
+added webhook
 // calculate the area
 const areaValue = (baseValue * heightValue) / 2;
 
