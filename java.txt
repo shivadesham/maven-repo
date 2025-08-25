@@ -6,7 +6,7 @@ cons  hcghghvgt areaValue = (baseValue * heightValue) / 2;
 dfvfdbgbgg
 console.log(
   `The area of the triangle is ${areaValue}`
-);
+hhfxffxfghj
 cfchgjj
 gfccghg
 gfchgjhbjbk
